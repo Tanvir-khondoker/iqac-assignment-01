@@ -114,6 +114,11 @@ form input[type="submit"]:hover {
     padding: 10px;
   }
 
+
+  .multimedia{
+    width: 400px;
+  }
+
   table {
     display: block;
     overflow-x: auto;
