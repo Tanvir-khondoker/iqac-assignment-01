@@ -10,7 +10,7 @@ I'm Tanvir Khondoker, and I'm passionate about technology, especially in the fie
 
 *   HTML5
 *   CSS3
-*   (Potentially mention JavaScript if you add interactivity later)
+
 
 ## Features
 
@@ -33,6 +33,3 @@ I'm Tanvir Khondoker, and I'm passionate about technology, especially in the fie
 *   Improve styling and responsiveness.
 *   Consider using a framework like React or a static site generator for more complex features.
 
-## Contact
-
-You can reach me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [your-linkedin-profile](your-linkedin-profile).  (Replace with your actual contact information)
