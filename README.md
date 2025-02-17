@@ -1,4 +1,4 @@
-# My CV Website
+# Simple My CV Website
 
 This repository contains the source code for my online CV (Curriculum Vitae).  It's built using HTML and CSS, and is designed to be responsive across different devices.
 
