@@ -21,10 +21,6 @@ I'm Tanvir Khondoker, and I'm passionate about technology, especially in the fie
 *   Multimedia section (video and audio)
 *   Contact form
 
-## How to Run Locally
-
-1.  Clone the repository: `git clone https://github.com/your-username/your-repo-name.git` (Replace with your actual repository URL)
-2.  Open the `index.html` file in your web browser.
 
 ## Future Improvements (Optional)
 
